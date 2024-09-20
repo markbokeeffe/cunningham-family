@@ -38,7 +38,7 @@ p {
 }
 
 .home-container:before{
-  background-image: url('./assets/johnny_burma.png');
+  background-image: url('./assets/billCunninghamSpeech.png');
   background-size: cover;
   background-repeat: no-repeat;
   content: ' ';

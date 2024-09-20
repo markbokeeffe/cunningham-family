@@ -22,8 +22,8 @@ export default function Home() {
             </div>
       </div>
 
-      <div className="mb-32 mt-14 hidden lg:grid text-center lg:mb-0 lg:w-full lg:max-w-7xl lg:grid-cols-6 lg:text-left  border-t-2 border-black">
-        <a
+      <div className="mb-32 mt-14 hidden lg:grid text-center lg:mb-0 lg:w-full lg:max-w-7xl lg:grid-cols-5 lg:text-left  border-t-2 border-black">
+        {/* <a
           href="cunningham-family"
           className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           rel="noopener noreferrer"
@@ -37,7 +37,7 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
             Royal Irish Regiment
           </p>
-        </a>
+        </a> */}
 
         <a
           href="william-cunningham"
@@ -51,7 +51,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Home Guard
+            1880 - 1966
           </p>
         </a>
 
@@ -67,7 +67,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Royal Armoured Corps
+            1881 - 1961
           </p>
         </a>
 
@@ -83,7 +83,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Royal Norfolk Regiment
+            1910 - 1991
           </p>
         </a>
 
@@ -102,7 +102,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            British Overseas Army on the Rhine
+            1917 - 1951
           </p>
         </a>
 
@@ -118,7 +118,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            British Overseas Army on the Rhine
+            1921 - 1960
           </p>
         </a>
       </div>
