@@ -11,7 +11,7 @@ export const Navigation = ({ active, isHome = false }: NavigationProps ) => {
     const [isNavOpen, setIsNavOpen] = useState(false);  
 
 	return (
-        <div className="flex justify-end py-8 w-full">
+        <div className="flex justify-end py-8 w-full  pr-10 lg:pr-0">
           <nav className="">
             <section className="MOBILE-MENU flex lg:hidden">
               <div
