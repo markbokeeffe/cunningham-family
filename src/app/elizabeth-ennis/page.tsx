@@ -12,49 +12,55 @@ export default function Page() {
             width={300}
             height={24}
           /> 
-          <p><span style={{ color: '#052003' }} className="font-bold">Bill Mullins was born in Clonmel in Co. Tipperary on 15 September 1911 to John and Johanna Mullins n&#233;e Donegan.</span></p>
+          <p><span style={{ color: '#052003' }} className="font-bold">Elizabeth Ennis was born in Dunsoghly in rural north County Dublin on 6 March 1881 to Michael Ennis and Margaret Larkin.</span></p>
          
           <Image
-            src="/billMullinsBurma.png"
-            alt="Bill Mullins in Burma"
-            caption="Bill Mullinson the left of the group in Burma"
+            src="/dunsoghly_castle.png"
+            alt="Dunsoghly Castle"
+            caption="Dunsoghly Castle in north county Dublin, which would have towered over the Ennis family home"
+            width={300}
+            height={24}
             float="right"
+          /> 
+          <p>Elizabeth lost her father just after her first birthday in 1882, and she continued to live after that in Dunsoghly with her mother and siblings.  When she was older, she went to live with her aunt, Elizabeth Campbell n&eacute;e Larkin and her cousins in 12 Eugene Street in south Dublin city.  Several of those cousins fought in the First World War and one of them - Frank Campbell - was killed in action in 1917.  Another of the cousins, Jack Campbell, was an Old Contemptible during the war.  In 1914, during the retreat from Mons, he saved the life of a Captain Patrick Bowes-Lyon: the brother of Britain's future Queen Consort Elizabeth and uncle of the future Queen Elizabeth II.</p>
+          <Image
+            src="/jack_campbell.png"
+            alt="Jack Campbell"
+            caption="Elizabeth&#39;s cousin, Jack Campbell, telling RT&Eacute; Gay Byrne about his war-time experiences in 1988"
+            width={300}
+            height={24}
+          />
+          <p>On 11 April 1909, Elizabeth married William Cunningham in St. Catherine&#39;s Church on Meath Street in Dublin.  Subsequently, they moved to 77 St. Ignatius Road in Drumcondra.</p>
+          <Image
+            src="/elizabeth_young.png"
+            alt="Young Elizabeth"
+            caption="A young Elizabeth"
+            width={300}
+            height={24}
+            float="right"
+          /> 
+          
+          <p>On 28 November 1910, Elizabeth gave birth to her first child, Margaret Mary (May).  A number of years later, the family then moved to 43 St. Ignatius Road.</p>
+          <p>On 6 July 1917, Elizabeth&#39;s first son, Se&aacute;n was born and on 20 July 1921, her youngest child, William Oliver (Bill), was born.</p>
+          <Image
+            src="/elizabeth_sons.png"
+            alt="Elizabeth with her sons"
+            caption="Elizabeth with sons, Se&aacute;n and Bill"
             width={300}
             height={24}
           /> 
-          <p>At a young age, Bill emigrated to London and followed his father&#39;s footsteps into the British Army.  By the time that the Second World War broke out in 1939, Bill was already an experienced soldier.  He was in the 2nd Battalion of the Royal Norfolk Regiment.</p>
+          <p>Sadly, Elizabeth&#39;s two sons predeceased her.  Se&aacute;n at the age of 34 in 1951 and Bill died on 8 April 1921.</p>
+          <p>Elizabeth died at the age of 80 on 20 July 1961, on what would have been her late son Bill&#39;s fortieth birthday.  She was buried with her sons and parents-in-law in Glasnevin Cemetery.</p>
           <Image
-            src="/billMullinsCamp.png"
-            alt="Bill Mullins in his camp during the war"
-            caption="Bill Mullins in his camp during the war"
+            src="/elizabeth_old.png"
+            alt="Elizabeth in later years"
+            caption="Elizabeth in later years"
             width={300}
             height={24}
+            float="right"
           /> 
           
-          <p>During the war years, Bill spent time initially in France.  He was present during the evacuation of Dunkirk in 1940.  Later, he was stationed in Burma and in India.</p>  
-          <p>In the spring and summer of 1944, his battalion took part in one of the most fierce battles of the entire war: the Battle of Kohima.  In this battle, the Allies forced Japan to abandon much of what it had captured in India.  This was a turning point for the Allies and it changed the course of the war in the Pacific.</p>
-
-          <p>Following the end of the war, Bill remained as a soldier.  He took part in boxing competitions in the army and won a number of prizes.</p>
-          <Image
-            src="/billMullinsGroup.png"
-            alt="Bill Mullins group"
-            caption="Bill Mullins pictured in the centre of this group"
-            className="mt-4"
-            float="right"
-            width={400}
-            height={24}
-          />
-          
-          <p>In his 80s, in the mid-1990s, Bill left London and returned to live in Clonmel.  He died there at the age of 86 on 12 June 1998.</p>
-
-          <Image
-            src="/billMullinsOld.png"
-            alt="Bill Mullins in old age in Clonmel in the late 1990s"
-            caption="Bill Mullins after his final return to Clonmel in the late 1990s"
-            className="mt-4"
-            width={400}
-            height={24}
-          />
+    
         </ContentPage>
     </>;
   }

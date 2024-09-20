@@ -45,9 +45,9 @@ export const Navigation = ({ active, isHome = false }: NavigationProps ) => {
                   <li className="border-b border-gray-400 my-8 uppercase">
                     <a href="/">Home</a>
                   </li>
-                  <li className="border-b border-gray-400 my-8 uppercase">
+                  {/* <li className="border-b border-gray-400 my-8 uppercase">
                     <a href="/cunningham-family">Cunningham Family</a>
-                  </li>
+                  </li> */}
                   <li className="border-b border-gray-400 my-8 uppercase">
                     <a href="/william-cunningham">William Cunningham</a>
                   </li>
@@ -68,9 +68,9 @@ export const Navigation = ({ active, isHome = false }: NavigationProps ) => {
             </section>
     
             {!isHome && <ul style={{ color: "51 22 22"}} className="DESKTOP-MENU hidden space-x-8 lg:flex font-medium text-sm">
-              <li>
+              {/* <li>
                 <a className={clsx({ "active" : active === "cunninghamFamily"})} href="/cunningham-family">Cunningham Family</a>
-              </li>
+              </li> */}
               <li>
                 <a className={clsx({ "active" : active === "williamCunningham"})} href="/william-cunningham">William Cunningham</a>
               </li>
