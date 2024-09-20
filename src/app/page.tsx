@@ -16,8 +16,8 @@ export default function Home() {
               priority
             />
             <div className="flex-col text-center max-w-xs" style={{ color: '#052003', fontFamily: 'fantasy'}}>
-              <h2 style={{ lineHeight: '60px'}} className="text-5xl font-extrabold text-white">The Cunningham Family</h2>
-              <h2 style={{ color: 'darkRed'}} className="text-3xl font-bold">of Drumcondra, Dublin</h2>
+              <h2 style={{ lineHeight: '60px', color: '51 22 22'}} className="text-5xl font-extrabold">The Cunningham Family</h2>
+              <h2 style={{ color: '51 22 22'}} className="text-3xl font-bold">of Drumcondra, Dublin</h2>
               {/* <p className="italic mt-4 text-2xl font-semibold" style={{ color: 'black'}}>~ A World War Family ~</p> */}
             </div>
       </div>

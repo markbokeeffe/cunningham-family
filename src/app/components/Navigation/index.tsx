@@ -67,7 +67,7 @@ export const Navigation = ({ active, isHome = false }: NavigationProps ) => {
               </div>
             </section>
     
-            {!isHome && <ul className="DESKTOP-MENU hidden space-x-8 lg:flex font-medium text-sm text-white">
+            {!isHome && <ul style={{ color: "51 22 22"}} className="DESKTOP-MENU hidden space-x-8 lg:flex font-medium text-sm">
               <li>
                 <a className={clsx({ "active" : active === "cunninghamFamily"})} href="/cunningham-family">Cunningham Family</a>
               </li>
