@@ -49,7 +49,7 @@ export default function Page() {
             width={300}
             height={24}
           /> 
-          <p>Sadly, Elizabeth&#39;s two sons predeceased her.  Se&aacute;n at the age of 34 in 1951 and Bill died on 8 April 1921.</p>
+          <p>Sadly, Elizabeth&#39;s two sons predeceased her.  Se&aacute;n at the age of 34 in 1951 and Bill died on 8 April 1960.</p>
           <p>Elizabeth died at the age of 80 on 20 July 1961, on what would have been her late son Bill&#39;s fortieth birthday.  She was buried with her sons and parents-in-law in Glasnevin Cemetery.</p>
           <Image
             src="/elizabeth_old.png"
