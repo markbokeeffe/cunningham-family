@@ -10,8 +10,8 @@ export default function Home() {
             <Image
               src="/williamElizabethCunningham.png"
               alt="William and Elizabeth Cunningham"
-              className="dark:invert border-4 border-black opacity-100 z-10 mt-10 mb-6 lg:mb-0"
-              width={300}
+              className="dark:invert border-4 border-black opacity-100 z-10 mt-6 mb-6 lg:mb-0"
+              width={250}
               height={24}
               priority
             />
@@ -22,7 +22,7 @@ export default function Home() {
             </div>
       </div>
 
-      <div className="mb-32 mt-14 hidden lg:grid text-center lg:mb-0 lg:w-full lg:max-w-7xl lg:grid-cols-5 lg:text-left  border-t-2 border-black">
+      <div className="mb-32 mt-8 hidden lg:grid text-center lg:mb-0 lg:w-full lg:max-w-7xl lg:grid-cols-5 lg:text-left  border-t-2 border-black">
         {/* <a
           href="cunningham-family"
           className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
