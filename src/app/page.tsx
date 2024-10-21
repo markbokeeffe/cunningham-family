@@ -10,7 +10,7 @@ export default function Home() {
             <Image
               src="/williamElizabethCunningham.png"
               alt="William and Elizabeth Cunningham"
-              className="dark:invert border-4 border-black opacity-100 z-10 mt-6 mb-6 lg:mb-0"
+              className="border-4 border-black z-10 mt-6 mb-6 lg:mb-0"
               width={250}
               height={24}
               priority
@@ -41,7 +41,7 @@ export default function Home() {
 
         <a
           href="william-cunningham"
-          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-xl font-semibold">
@@ -57,7 +57,7 @@ export default function Home() {
 
         <a
           href="elizabeth-ennis"
-          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-xl font-semibold">
@@ -73,7 +73,7 @@ export default function Home() {
 
         <a
           href="may-cunningham"
-          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-xl font-semibold">
@@ -92,7 +92,7 @@ export default function Home() {
 
         <a
           href="sean-cunningham"
-          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-xl font-semibold">
@@ -108,7 +108,7 @@ export default function Home() {
 
         <a
           href="bill-cunningham"
-          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          className="group rounded-lg border border-transparent px-2 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-xl font-semibold">
