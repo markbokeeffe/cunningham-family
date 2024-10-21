@@ -18,7 +18,7 @@ export const Image= ({ clear = true, src, alt='', className, float = 'left', wid
 <ImageElem
   src={src}
   alt={alt}
-  className={clsx('border-4 border-black')}
+  className={clsx('border-4 border-black', className)}
   width={width}
   height={height}
   priority
